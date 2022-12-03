@@ -1,0 +1,20 @@
+{
+  "name": "social-network.nosql.18",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gdebortoli/Social-Network.nosql.18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gdebortoli/Social-Network.nosql.18/issues"
+  },
+  "homepage": "https://github.com/Gdebortoli/Social-Network.nosql.18#readme"
+}
